@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 4.7h | 3 |
+| Week 1 | Tier 1 | 5.1h | 3 |
 
 ## Contents
 
@@ -44,7 +44,7 @@ So I worked a lot on my PCB, but I've decided I want to change it into the shape
 
 ### 2026-10-11 – # Finished the PCB
 
-**1.42h**
+**1.82h**
 
 # Finished the PCB
 I'm done with the PCB now! I made it in the shape of a controller and rearranged everything. I then added a bunch of art on it. I wired all up and now it seems to be good.
