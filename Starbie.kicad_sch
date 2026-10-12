@@ -3127,7 +3127,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
+		(property "Footprint" "Imported Parts:MPU6050_Module"
 			(at 170.18 123.19 0)
 			(hide yes)
 			(show_name no)
