@@ -19,7 +19,7 @@
 | [10k Resistor](https://www.amazon.com/gp/product/B0BDKY8VQG/ref=ox_sc_act_title_1?smid=A2XLLJ8HYD6SMA&psc=1) | Resistor for the DHT11 sensor. | 100 | $0.04 | $4.00 | [amazon](https://www.amazon.com/gp/product/B0BDKY8VQG/ref=ox_sc_act_title_1?smid=A2XLLJ8HYD6SMA&psc=1) |
 | [PCB](https://www.jlcpcb.com/) | The actual board. | 5 | $1.58 | $7.90 | [JLCPCB](https://www.jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$36.26** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$36.26** | — |
+| **Tax & shipping** | — | — | — | **$8.00** | — |
+| **Total** | — | — | — | **$44.26** | — |
 
-**$6.26 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$14.26 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
