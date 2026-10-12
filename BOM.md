@@ -13,12 +13,11 @@
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
 | [0.96 OLED](https://www.amazon.com/gp/product/B07FK8GB8T/ref=ox_sc_act_title_3?smid=A3CX4TQNUXMB0L&psc=1) | Main screen | 1 | $5.99 | $5.99 | [amazon](https://www.amazon.com/gp/product/B07FK8GB8T/ref=ox_sc_act_title_3?smid=A3CX4TQNUXMB0L&psc=1) |
-| [MPU6050](https://amazon.com/gp/product/B0HFSBGKW9/ref=ox_sc_act_title_4?smid=A12LDFRVLD4I3Q&psc=1) | Acceleration sensor | 1 | $4.69 | $4.69 | [amazon](https://amazon.com/gp/product/B0HFSBGKW9/ref=ox_sc_act_title_4?smid=A12LDFRVLD4I3Q&psc=1) |
 | [DHT11](https://www.amazon.com/gp/product/B0CRRXJ83F/ref=ox_sc_act_title_5?smid=AGBPQLQT372PL&psc=1) | Moisture and temperature sensor. | 1 | $3.78 | $3.78 | [amazon](https://www.amazon.com/gp/product/B0CRRXJ83F/ref=ox_sc_act_title_5?smid=AGBPQLQT372PL&psc=1) |
 | [10k Resistor](https://www.amazon.com/gp/product/B0BDKY8VQG/ref=ox_sc_act_title_1?smid=A2XLLJ8HYD6SMA&psc=1) | Resistor for the DHT11 sensor. | 100 | $0.04 | $4.00 | [amazon](https://www.amazon.com/gp/product/B0BDKY8VQG/ref=ox_sc_act_title_1?smid=A2XLLJ8HYD6SMA&psc=1) |
 | [PCB](https://www.jlcpcb.com/) | The actual board. | 5 | $1.58 | $7.90 | [JLCPCB](https://www.jlcpcb.com/) |
-| **Parts subtotal** | — | — | — | **$26.36** | — |
+| **Parts subtotal** | — | — | — | **$21.67** | — |
 | **Tax & shipping** | — | — | — | **$8.00** | — |
-| **Total** | — | — | — | **$34.36** | — |
+| **Total** | — | — | — | **$29.67** | — |
 
-**$4.36 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$0.33 left of the tier's funding.
