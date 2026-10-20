@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-12T01:19:06.058Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuvwy0a202m301osrdffifpl). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > My own Starbie.
 
