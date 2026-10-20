@@ -6,11 +6,11 @@
 > [!NOTE]
 > This parts list is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-| Week | Tier | Parts funding |
-| --- | --- | --- |
-| Week 1 | Tier 1 | $30.00 |
+ Week , Tier , Parts funding ,
+ --- , --- , --- ,
+ Week 1 , Tier 1 , $30.00 ,
 
-| Part | What it's for | Qty | Unit | Total | Vendor |
+ Part , What it's for , Qty , Unit , Total , Vendor ,
 | --- | --- | --- | --- | --- | --- |
 | [0.96 OLED](https://www.amazon.com/gp/product/B07FK8GB8T/ref=ox_sc_act_title_3?smid=A3CX4TQNUXMB0L&psc=1) | Main screen | 1 | $5.99 | $5.99 | [amazon](https://www.amazon.com/gp/product/B07FK8GB8T/ref=ox_sc_act_title_3?smid=A3CX4TQNUXMB0L&psc=1) |
 | [DHT11](https://www.amazon.com/gp/product/B0CRRXJ83F/ref=ox_sc_act_title_5?smid=AGBPQLQT372PL&psc=1) | Moisture and temperature sensor. | 1 | $3.78 | $3.78 | [amazon](https://www.amazon.com/gp/product/B0CRRXJ83F/ref=ox_sc_act_title_5?smid=AGBPQLQT372PL&psc=1) |
