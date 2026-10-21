@@ -24,4 +24,4 @@ This is my very own starbie made for HackClub's Half life program. It is a digit
 | [Keycaps](https://www.amazon.com/dp/B0CQ2VLMVY) | 2 | amazon | $0.60 | $11.99 |
 | [PCB](https://www.jlcpcb.com/) | 5 | JLCPCB | $1.58 | $7.90 |
 | Estimated total shipping | 1 | — | — | $8.00 |
-| **Total Project Cost** | | | | **$29.67** |
+| **Total Project Cost** | | | | **$44.36** |
