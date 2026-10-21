@@ -3,4 +3,5 @@ Item,Qty,Supplier,Cost/item,Total Cost,link
 DHT11,1,amazon,$3.78,$3.78,https://www.amazon.com/gp/product/B0CRRXJ83F/ref=ox_sc_act_title_5?smid=AGBPQLQT372PL&psc=1
 10k Resistor,100,amazon,$0.04,$4.00,https://www.amazon.com/gp/product/B0BDKY8VQG/ref=ox_sc_act_title_1?smid=A2XLLJ8HYD6SMA&psc=1
 PCB,5,JLCPCB,$1.58,$7.90,https://www.jlcpcb.com/
+MPU6050 Module,1,amazon,$4.79,$4.79,https://www.amazon.com/gp/product/B0HFSBGKW9/ref=ox_sc_act_title_4?smid=A12LDFRVLD4I3Q&psc=1
 Estimated total shipping,1,,,$8.00,
