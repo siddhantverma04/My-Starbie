@@ -1,5 +1,11 @@
 # My Starbie
-This is my very own starbie made for HackClub's Half life program. It is a digital pet made as a controller. 
+This is my very own starbie made for HackClub's Half life program. 
+## What is it?
+I made it as a simple digital pet to stay on my desk. I also made it shaped like a controller with the switches on the sides so it feels like an real controller. 
+## How'd I make it?
+To make it I used KiCad for the PCB. And the arduino software for the firmware.
+## How should you assemble it for yourself?
+To build it for your self make sure you have all of the parts in the BOM, and solder them onto the PCB in the right orientations. After soldering you can download the firmware and flash it onto the ESP32C3 by holding down the boot button while plugging it into your computer. Then you use any method to flash it on.
 
 ## Schematic:
 
