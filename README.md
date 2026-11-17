@@ -13,11 +13,11 @@ To build it for your self make sure you have all of the parts in the BOM, and so
 
 ## PCB
 
-<img width="376" height="254" alt="Screenshot 2026-10-11 102356" src="https://github.com/user-attachments/assets/a8089bce-3738-4848-a27f-0d204e25552c" />
+<img width="349" height="245" alt="Screenshot 2026-11-16 202707" src="https://github.com/user-attachments/assets/ac63c2f1-01a4-4eb7-9de0-9ac0a8b98269" />
 
 ## 3D view
 
-<img width="506" height="332" alt="Screenshot 2026-10-11 102424" src="https://github.com/user-attachments/assets/30988ee9-8e20-4087-9f31-94cc19c4327b" />
+<img width="491" height="364" alt="Screenshot 2026-11-16 202844" src="https://github.com/user-attachments/assets/5078161b-612a-431c-ba99-c757becca415" />
 
 ## BOM
 
